@@ -23,7 +23,7 @@ Beyond research, I’m an avid **boulderer** and **climber** 🧗‍♂️, alwa
   *AIChE Journal (2023)*  
   Introduced a novel framework combining **hierarchical RL** and **graph neural networks (GNNs)** to automate flowsheet design. This paper highlights advanced actor-critic logic.
 
-- **[Transfer learning for process design with reinforcement learning]([https://www.sciencedirect.com/science/article/abs/pii/S1570794623000464](https://www.sciencedirect.com/science/article/pii/B978044315274050319X))**  
+- **[Transfer learning for process design with reinforcement learning](https://www.sciencedirect.com/science/article/pii/B978044315274050319X)**  
   *Computer-Aided Chemical Engineering (2023)*  
   Demonstrates how **transfer learning** accelerates process optimization tasks in RL by leveraging knowledge from similar tasks.
 
@@ -34,7 +34,7 @@ Beyond research, I’m an avid **boulderer** and **climber** 🧗‍♂️, alwa
   *Royal Society of Chemistry, Book Chapter (2023)*  
   An overview of **GNNs** for molecular property prediction, with practical examples demonstrating their power in chemistry applications.
 
-- **[Self-supervised graph neural networks for polymer property prediction](https://pubs.rsc.org/en/content/articlehtml/2024/me/d3me00098g)**  
+- **[Self-supervised graph neural networks for polymer property prediction](https://pubs.rsc.org/en/content/articlehtml/2024/me/d4me00088a)**  
   *Molecular Systems Design & Engineering (2024)*  
   Applied **self-supervised learning** techniques to enhance GNN performance in predicting polymer properties.
 
@@ -44,21 +44,6 @@ Beyond research, I’m an avid **boulderer** and **climber** 🧗‍♂️, alwa
 - **[Modeling category-selective cortical regions with topographic variational autoencoders](https://arxiv.org/abs/2110.13911)**  
   *NeurIPS Workshop SVRHM (2021)* - **Best Paper Award**  
   Introduced the **Topographic Variational Autoencoder (TVAE)** to model localized category-selectivity in the brain, blending **neuroscience** and **unsupervised learning**.
-
----
-
-## 🛠 Featured Repositories
-
-Here are some repositories showcasing my research and implementations:
-
-- 🧬 [Reinforcement Learning for Process Design](https://github.com/your-repo-link)  
-  Frameworks and case studies leveraging RL for chemical process optimization.  
-
-- 🔗 [Graph Neural Networks for Property Prediction](https://github.com/your-repo-link)  
-  Code for applying **GNNs** to molecular and polymer property predictions, including datasets and tutorials.
-
-- 🕹 [Flowsheet Synthesis with Hierarchical RL](https://github.com/your-repo-link)  
-  Implementation of hierarchical reinforcement learning for chemical process flowsheet generation.
 
 ---
 
@@ -72,7 +57,7 @@ Here are some repositories showcasing my research and implementations:
 ## 🤝 Let’s Connect!
 
 - 🌐 [Personal Website](https://www.pi-research.org/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/schweidtmann/)
-- 📧 [Email](mailto:qinghegao@your-email.com)
+- 💼 [LinkedIn](www.linkedin.com/in/qinghe-gao-69a83817a)
+- 📧 [Email](mailto:gaoqinghe97@gmail.com)
 
 Feel free to explore my repositories and reach out for collaborations or discussions about AI, chemical engineering, and beyond! 🚀
